@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
+        <title>Ca' Monsignore Vittore</title>
+        <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="images/favicon_io/favicon-32x32.png" sizes="32x32" type="image/png" />
+        <link rel="icon" href="images/favicon_io/favicon-16x16.png" sizes="16x16" type="image/png" />
+        <link rel="apple-touch-icon" href="images/favicon_io/apple-touch-icon.png" sizes="180x180" />
+
+
+
+
+        <link rel = "stylesheet" href="css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"integrity="sha512-..."crossorigin="anonymous"referrerpolicy="no-referrer">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <!-- AOS CSS -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Mystery+Quest&family=Oswald:wght@200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ca' Monsignor Vittore",
+    "url": "file:///Users/alexis/Desktop/B&B/",
+    "logo": "file:///Users/alexis/Desktop/B&B/images/logosito.png"
+  }
+  </script>
+  <script src="https://unpkg.com/i18next@21.6.14/i18next.min.js"></script>
+<script src="https://unpkg.com/i18next-http-backend@1.4.1/i18nextHttpBackend.min.js"></script>
+
+    </head>
+<body>
+        
+  <section class = "hero-alt">
+      <nav>
+        <a href ="index.html"><img src="images/logosito.png"></a>
+        <div class = "nav-links" id ="navLink">
+           <i class="fa fa-times" id = "close-btn" onclick="hideMenu()"></i>
+           <ul>
+               
+               <li><a href = "#">HOME</a> </li>
+               <li><a href = "#aboutus" data-i18n="aboutus">CHI SIAMO</a> </li>
+               <li><a href = "#rooms" data-i18n="camere">LE NOSTRE CAMERE</a></li>
+               <li><a href = "#services" data-i18n="servizi">I NOSTRI SERVIZI</a></li>
+               <li><a href = "#gallery" data-i18n="galleria">GALLERIA</a></li>
+               <li><a href = "chioggia.html" data-i18n="città" >LA NOSTRA CITTA'</a></li>
+               <li><a href = "#contacts" data-i18n="contatti">CONTATTI</a> </li>
+               <select id = "languageSwitcher">
+                <option value="it">🇮🇹 IT</option>
+                <option value="en">🇬🇧 EN</option>
+                <option value="de">🇩🇪 DE</option>
+              </select>
+           </ul>
+        </div>
+        <i class="fa fa-bars" id = "open-btn" onclick ="showMenu()"></i>
+   </nav>
+   
+    <div class="hero-content">
+        <h1> Ca' Monsignore Vittore</h1>
+        <p data-i18n="hero_text"> Ti auguriamo una vacanza e un soggiorno rilassante </p>
+        <a href="#aboutus" class="hero-btn-alt" data-i18n="hero_button">Visita il sito per saperne di più</a>
+    </div>
+
+    <section id = "aboutus" class = "intro-section">
+      <h1 data-i18n="aboutus_title"> La nostra storia</h1>
+      <p  data-i18n="aboutus_p1" >
+        Benvenuti nella nostra dimora Ca’ monsignor Vittore, nel cuore del meraviglioso centro storico di Chioggia, una piccola isola situata nella parte meridionale della laguna di Venezia.
+      </p>
+        <p  data-i18n="aboutus_p2">
+          Ca' Monsignor Vittore è un edificio storico emblematico risalente al XVII secolo. La dimora prende il nome da Monsignor Vittore Bellemo, sacerdote, organista e compositore chioggiotto vissuto tra il XIX e il XX secolo, figura ecclesiastica influente che vi abitò durante un periodo cruciale della storia locale.
+          L’edificio riflette l’architettura veneziana tipica dell’epoca, con una facciata elegante e dettagli raffinati che raccontano il prestigio della famiglia e il valore culturale del tempo.
+      </p>
+      <p  data-i18n="aboutus_p3">
+
+        Ca’ Monsignor Vittore ha avuto un ruolo centrale non solo come residenza privata, ma anche come punto di incontro per importanti eventi religiosi e culturali nel corso dei secoli.
+        L’edificio testimonia il forte legame tra la città di Chioggia e la sua tradizione ecclesiastica, rappresentando un patrimonio storico di rilievo per la comunità locale. 
+      </p>
+      <p  data-i18n="aboutus_p4">
+        
+        Oggi, Ca’ Monsignor Vittore è considerato un simbolo di storia e cultura, preservato con cura per mantenere viva la memoria delle radici profonde che hanno formato l’identità di Chioggia.
+
+
+      </p>
+    </section>
+
+       <!----Le camere -->
+       <section id = "rooms" class="camere-section">
+        <h1 data-aos = "fade-up" data-i18n="rooms_title">Le nostre camere</h1>
+      <div class="camera camera-1" data-aos="fade-right" >
+         <!---- <div class="camera-img">
+            <img src="images/01.jpg" alt="Camera Verde e Bianca">
+          </div>
+          <div class="camera-desc"  >
+            <h3>Camera Verde & Bianca</h3>
+            <p  data-i18n="room_p1">
+              Questa camera accogliente combina il bianco luminoso con delicati tocchi di verde,
+              richiamando la natura e infondendo una sensazione di freschezza e serenità.
+              L’arredamento è semplice e funzionale, pensato per offrire comfort senza rinunciare allo stile.
+            </p>
+            <a href="room.html" class="info-btn">INFO</a>
+          </div>
+        </div>-->
+    
+        <div class="camera camera-2" data-aos="fade-left">
+          <div class="camera-img">
+            
+            <div class = "slider">
+             
+            <img src="images/room1/camera1.JPG" alt="Camera Blu e Grigia" class="slide active">
+            <img src="images/room1/camera.JPG" alt="Camera Vista Mare" class="slide">
+            <img src="images/room1/c03.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/c04.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/b03.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/bagno1.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/bagno2.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/s01.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/s05.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/s03.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/h01.JPG" alt="Camera Elegante" class="slide">
+            <img src="images/room1/h03.JPG" alt="Camera Elegante" class="slide">
+            
+            <button class="prev-btn"><i class="fa-solid fa-chevron-left"></i></button>
+            <button class="next-btn"><i class="fa-solid fa-chevron-right"></i></button>
+
+          </div>
+          
+          
+          </div>
+          <div class="camera-desc">
+            <h3>Camera Beige & Bianca</h3>
+            <p  data-i18n="room_p2">
+              Un ambiente caldo e luminoso, dove il beige si intreccia con il bianco per creare un’atmosfera rilassante e armoniosa. 
+              L’arredo è semplice ma curato, con linee pulite che valorizzano la calma e la comodità. 
+             
+            </p>
+            <a href="room2.html" class="info-btn">INFO</a>
+          </div>
+        </div>
+      </section>
+    
+      
+    
+      
+    
+    
+
+    <!-- Servizi -->
+<section id = "services" class="services">
+    
+    <h1 data-i18n="services_title">I nostri servizi principali</h1>
+    <p data-i18n="services_p" >Una selezione di comfort per rendere il tuo soggiorno ancora più piacevole.</p>
+    <div class ="services-box fade-in">
+    <div class="row">
+      <div class="service-col fade-in">
+        <i class="fas fa-wifi"></i>
+        <h3 data-i18n="services_title1">Wi-Fi Gratuito</h3>
+        <p data-i18n="services_p1">Connessione stabile e veloce in tutta la struttura.</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-snowflake"></i>
+        <h3 data-i18n="services_title2">Aria Condizionata</h3>
+        <p data-i18n="services_p2">Climatizzazione regolabile.</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-bed"></i>
+        <h3 data-i18n="services_title3">Lenzuola</h3>
+        <p data-i18n="services_p3">Lenzuola già a disposizione.</p>
+      </div>
+      <div class="service-col fade-in">
+        <i  class="fas fa-bath"></i>
+        <h3 data-i18n="services_title4">Asciugamani</h3>
+        <p data-i18n="services_p4">Set di asciugamani freschi e puliti inclusi.</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-wind"></i>
+        <h3 data-i18n="services_title5">Phone</h3>
+        <p data-i18n="services_p5">Per l'asciugatura dei capelli</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-bicycle"></i>
+        <h3 data-i18n="services_p6">Posto bici</h3>
+        <p data-i18n="services_p6">Possibilità di depositare la propria bici</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-bath"></i>
+        <h3 data-i18n="services_title7">Bagno Privato</h3>
+        <p data-i18n="services_p7">Spazio esclusivo per il tuo benessere.</p>
+      </div> 
+      <div class="service-col fade-in">
+        <i class="fas fa-tv"></i>
+        <h3 data-i18n="services_title8">Tv a schermo piatto</h3>
+        <p data-i18n="services_p8">Intrattenimento garantito, anche in vacanza.</p>
+      </div>
+      <div class="service-col fade-in">
+        <i class="fas fa-thermometer-half"></i>
+        <h3 data-i18n="services_title9">Riscaldamento</h3>
+        <p data-i18n="services_p9">Termosifoni per un soggiorno caldo e confortevole nei periodi freddi.</p>
+      </div>
+      
+    </div>
+      
+    </div>
+    </div>
+  </section>
+  <section id = "maps" class="contatti-mappa">
+    <h1 data-i18n="maps">Mappa</h1>
+    <p> Calle Larga Bersaglio, 531, 30015, Chioggia (Ve)</p>
+  
+    <div class="contenitore-doppio">
+      <!-- MAPPA -->
+      <div class="mappa-colonna">
+        <div class="map-container">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2810.206680285686!2d12.278730382946321!3d45.22338667187006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477e986a3fddc2b7%3A0x46ffe6e30b723b55!2sCalle%20Larga%20Bersaglio%2C%20531%2C%2030015%20Chioggia%20VE!5e0!3m2!1sit!2sit!4v1743248372245!5m2!1sit!2sit"
+            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+      
+      <div class="contact-card">
+        <h2 data-i18n="contact_title">Contattaci</h2>
+        <form action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value="2d26e4ac-a3c0-41c6-8b62-d90f234149e6">
+          <div class="form-group">
+            <input type="text" name = "Nome" data-i18n-placeholder="contact_name" placeholder="Il tuo nome" required />
+          </div>
+          <div class="form-group">
+            <input type="text" name = "Cognome"  data-i18n-placeholder="contact_surname" placeholder="Il tuo cognome" required />
+          </div>
+          <div class="form-group">
+           <input type="email" name = "Email" data-i18n-placeholder="contact_email" placeholder="La tua email" required />
+          </div>
+          <div class="form-group">
+            <input type="text" name = "Numero di telefono" data-i18n-placeholder="contact_phone" placeholder="Il tuo numero di telefono" required />
+          </div>
+          <div class="form-group">
+            <textarea  name = "Messaggio" data-i18n-placeholder="contact_message" placeholder="Il tuo messaggio" required></textarea>
+          </div>
+          <button type="submit" class="submit-btn" data-i18n="contact_button">Invia messaggio</button>
+        </form>
+      </div>
+  </div>
+</section>
+  
+  
+
+    
+    
+  <footer id = "contacts">
+    <div class="waves">
+      <div class="wave" id="wave1"></div>
+      <div class="wave" id="wave2"></div>
+      <div class="wave" id="wave3"></div>
+      <div class="wave" id="wave4"></div>
+    </div>
+  
+    <ul class="social-icon">
+      <li class="social-icon__item"><a class="social-icon__link" href="#">
+        <ion-icon name="logo-facebook"></ion-icon>
+      </a></li>
+      <li class="social-icon__item"><a class="social-icon__link" href="#">
+        <ion-icon name="logo-twitter"></ion-icon>
+      </a></li>
+      <li class="social-icon__item"><a class="social-icon__link" href="#">
+        <ion-icon name="logo-instagram"></ion-icon>
+      </a></li>
+      <li class="social-icon__item"><a class="social-icon__link" href="https://wa.me/+393520531531">
+        <ion-icon name="logo-whatsapp"></ion-icon>
+      </a></li>
+     
+      <li class="social-icon__item">
+        <a class="social-icon__link" href="https://booking.com" target="_blank" rel="noopener noreferrer">
+          <img src="images/book.svg" alt="Booking" width="35px" style="vertical-align: middle;">
+        </a>
+      </li>
+      
+    </ul>
+  
+    <ul class="menu">
+      <li class="menu__item"><a class="menu__link" href="#">locchioggia@gmail.com</a></li>
+      <li class="menu__item"><a class="menu__link" href="https://wa.me/+393520531531">+39 352 053 1531
+        <ion-icon name="logo-whatsapp"></ion-icon>
+      </a></li>
+      <li class="menu__item"><a class="menu__link" href="#" data-i18n="back">Torna su</a></li>
+      
+    </ul>
+  
+    <p>&copy; 2025 @Lexj|All rights reserved.</p>
+  </footer>
+  
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+   
+    
+    <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+    <script src="js/script.js"></script>
+    <script>
+    
+    i18next
+      .use(i18nextHttpBackend)
+      .init({
+        lng: 'it',                 
+        fallbackLng: 'it',         
+        backend: {
+          loadPath: '/js/lang/{{lng}}.json'  
+        }
+      }, function(err, t) {
+        if (err) return console.error(err);
+        updateContent();
+      });
+  
+    
+    function updateContent() {
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        el.innerHTML = i18next.t(el.getAttribute('data-i18n'));
+      });
+      document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+        el.setAttribute('placeholder', i18next.t(el.getAttribute('data-i18n-placeholder')));
+      });
+    }
+  
+   
+    function changeLang(lang) {
+      i18next.changeLanguage(lang, updateContent);
+    }
+  
+    
+    document.getElementById('languageSwitcher').addEventListener('change', function() {
+      const selectedLang = this.value;
+      changeLang(selectedLang);
+    });
+  
+  
+    i18next.on('initialized', () => {
+      document.getElementById('languageSwitcher').value = i18next.language || 'it';
+    });
+  </script>
+
+  
+
+</body>
+</html>

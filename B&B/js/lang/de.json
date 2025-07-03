@@ -1,0 +1,116 @@
+{
+    "aboutus": "ÜBER UNS",
+    "camere": "UNSERE ZIMMER",
+    "servizi": "SERVICE",
+    "galleria": "GALERIE",
+    "città": "UNSERE STADT",
+    "contatti": "KONTAKT",
+    "hero_text": "Wir hoffen, dass Sie Ihren Urlaub und den erholsamen Aufenthalt genießen.",
+    "hero_button": "Besuchen Sie die Website für weitere Informationen",
+    
+    "aboutus_title": "Unsere Geschichte",
+    "aboutus_p1": "Willkommen in unserem Haus Ca’ Monsignor Vittore im Herzen der Altstadt von Chioggia, einer kleinen Insel im südlichen Teil der Lagune von Venedig.",
+    "aboutus_p2": "Ca' Monsignor Vittore ist ein historisches, emblematisches Gebäude aus dem 17. Jahrhundert. Das Haus ist nach Monsignor Vittore Bellemo benannt, einem Priester, Organisten und Komponisten aus Chioggia, der zwischen dem 19. und 20. Jahrhundert lebte, eine einflussreiche kirchliche Persönlichkeit, die während einer entscheidenden Phase der lokalen Geschichte hier wohnte. Das Gebäude spiegelt die typische venezianische Architektur jener Zeit wider, mit einer eleganten Fassade und feinen Details, die den Prestige der Familie und den kulturellen Wert der Epoche erzählen.",
+    "aboutus_p3": "Ca’ Monsignor Vittore hatte eine zentrale Rolle nicht nur als Privatresidenz, sondern auch als Treffpunkt für bedeutende religiöse und kulturelle Veranstaltungen im Laufe der Jahrhunderte. Das Gebäude zeugt von der engen Verbindung zwischen der Stadt Chioggia und ihrer kirchlichen Tradition und stellt ein bedeutendes historisches Erbe für die lokale Gemeinschaft dar.",
+    "aboutus_p4": "Heute gilt Ca’ Monsignor Vittore als Symbol für Geschichte und Kultur, sorgfältig bewahrt, um die Erinnerung an die tiefen Wurzeln lebendig zu halten, die die Identität von Chioggia geprägt haben.",
+    
+    "rooms_title": "Unsere Zimmer",
+    
+    "room_p1": "Dieses gemütliche Zimmer verbindet strahlendes Weiß mit sanften Grüntönen, die an die Natur erinnern und ein Gefühl von Frische und Ruhe vermitteln. Die Einrichtung ist einfach und funktional gestaltet, um Komfort zu bieten, ohne auf Stil zu verzichten.",
+    "room_p2": "Eine warme und helle Atmosphäre, in der Beige mit Weiß kombiniert wird, um eine entspannte und harmonische Stimmung zu schaffen. Die Einrichtung ist schlicht, aber gepflegt, mit klaren Linien, die Ruhe und Komfort betonen.",
+    
+    "services_title": "Unsere Hauptdienstleistungen",
+    "services_title1": "Kostenloses WLAN",
+    "services_title2": "Klimaanlage",
+    "services_title3": "Bettwäsche",
+    "services_title4": "Handtücher",
+    "services_title5": "Haartrockner",
+    "services_title6": "Fahrradstellplatz",
+    "services_title7": "Privates Badezimmer",
+    "services_title8": "Flachbild-TV",
+    "services_title9": "Heizung",
+    
+    "services_p": "Eine Auswahl an Annehmlichkeiten, um Ihren Aufenthalt noch angenehmer zu gestalten.",
+    "services_p1": "Stabile und schnelle Verbindung im gesamten Gebäude.",
+    "services_p2": "Regulierbare Klimatisierung.",
+    "services_p3": "Bettwäsche steht bereit.",
+    "services_p4": "Frische und saubere Handtücher inklusive.",
+    "services_p5": "Zum Föhnen der Haare",
+    "services_p6": "Möglichkeit, das eigene Fahrrad abzustellen",
+    "services_p7": "Exklusiver Raum für Ihr Wohlbefinden.",
+    "services_p8": "Unterhaltung garantiert, auch im Urlaub.",
+    "services_p9": "Heizkörper für einen warmen und komfortablen Aufenthalt in der kalten Jahreszeit.",
+    
+    "maps": "Karte",
+    
+    "contact_title": "Kontaktieren Sie uns",
+    "contact_name": "Ihr Name",
+    "contact_surname": "Ihr Nachname",
+    "contact_email": "Ihre E-Mail",
+    "contact_phone": "Ihre Telefonnummer",
+    "contact_message": "Ihre Nachricht",
+    "contact_button": "Nachricht senden",
+
+    "back": "Nach oben scrollen",
+
+
+    
+      "story": "GESCHICHTE",
+      "escursione": "AUSFLÜGE",
+      "beach": "STRAND",
+      "centro": "DIE ALTSTADT",
+      "local": "LOKALE FESTE",
+      "night": "NACHTLEBEN",
+    
+      "title1": "Willkommen in Chioggia",
+      "title_p01": "Ein friedlicher Ort zwischen Meer, Natur und Geschichte.",
+      "button1": "Mehr erfahren",
+    
+      "title2": "Ein authentischer Ort zum Entdecken",
+      "p_1": "Chioggia ist eine Perle am südlichen Ende der Lagune von Venedig, oft als 'kleines Venedig' bezeichnet, aufgrund seiner urbanen Struktur mit Kanälen, Brücken und malerischen Gassen.",
+      "p_2": "Im Gegensatz zur großen Schwester bewahrt Chioggia eine authentische und volkstümliche Seele, wo der Alltag harmonisch mit Geschichte und Traditionen verschmilzt. Unser Chioggia ist bekannt für den Charme seiner Gassen und Kanäle, seine Küche mit frischem Fisch und seine bewegte Geschichte.",
+      "p_3": "Nur 2 Gehminuten von unserer Unterkunft entfernt erreichen Sie das Vaporetto, das Sie zur bezaubernden Insel Pellestrina bringt. Von dort aus können Sie weiter nach Venedig und zu anderen Inseln der Lagune wie Murano, Burano und Torcello fahren. Pellestrina bietet auch freie, unberührte Strände sowie das faszinierende Naturparadies Ca’ Roman – ein Paradies für Naturliebhaber und Ruhesuchende. In wenigen Minuten erreichen Sie auch den bekannten Strand von Sottomarina mit seinem feinen, goldenen Sand und dem breiten Ufer – ideal für lange Spaziergänge und entspannte Momente. Das milde Klima und die angenehme Meeresbrise sorgen für perfekte Bräune, die auch für ihre haut- und gesundheitsfördernden Eigenschaften bekannt ist.",
+    
+      "title3": "Ein wenig Geschichte",
+      "p_4": "Chioggia ist eine malerische Stadt im südlichen Teil der venezianischen Lagune, oft als „kleines Venedig“ bezeichnet. Die Stadtstruktur mit Kanälen, Brücken und engen Gassen erinnert an das einzigartige Flair der Serenissima. Gegründet in der Römerzeit, entwickelte sich Chioggia über die Jahrhunderte zu einem wichtigen Handels- und Fischereizentrum – dank ihrer strategischen Lage zwischen Meer und Lagune.",
+      "p_5": "Die Kultur Chioggias ist typisch für eine Hafenstadt, in der die Fischerei jahrhundertelang die wichtigste wirtschaftliche Aktivität war. Chioggia besitzt die zweitgrößte Fischereiflotte Italiens. Besonders sehenswert ist der Fischmarkt. Zu den traditionellen Gerichten gehören 'Sarde in Saor', 'Baccalà mantecato' und 'Frittierte Creme'. Die Altstadt mit ihren bunten Häusern und malerischen Gassen bietet ein authentisches Flair, perfekt für Spaziergänge voller Entdeckungen.",
+      "p_6": "Die historischen Kirchen, wie die Kathedrale Santa Maria Assunta, zeugen vom kulturellen und religiösen Reichtum der Stadt. Chioggia ist auch bekannt für seine traditionellen Feste wie das Fischfest und seine typischen Produkte wie frischen Fisch, Venusmuscheln und „Moeche“ (kleine Krabben).",
+      "p_7": "Die Stadt ist ein Schnittpunkt von Geschichte, Kultur und Natur. Die Lagune, die sie umgibt, bietet atemberaubende Landschaften und Ausflugsmöglichkeiten zu nahegelegenen Inseln wie Pellestrina und Sottomarina. Trotz der Nähe zu Venedig bewahrt Chioggia ihre eigene starke und unverwechselbare Identität – ideal für alle, die in das alltägliche Leben Venetiens abseits vom Massentourismus eintauchen möchten.",
+    
+      "title4": "Was man in Chioggia und Sottomarina besuchen sollte",
+      "p_8": "Chioggia und Sottomarina sind zwei Seiten derselben Schönheit: eine lagunenhafte Stadt, in der die Zeit stehen geblieben zu sein scheint, und ein lebhafter Badeort – beide voller Charme, Geschichte und Aktivitäten für jeden Besucher.",
+    
+      "title5": "Bootsausflüge und Lagunentouren",
+      "p_9": "Chioggia ist das ideale Tor zur Erkundung der venezianischen Lagune. Verschiedene lokale Agenturen bieten Bootstouren zu den Inseln der Lagune an, wie etwa:",
+      "p_10": "• Insel Pellestrina: Eine lange, schmale Insel zwischen der Lagune und dem Adriatischen Meer. Fischerinsel mit Spitzenklöpplerinnen, wenig frequentierten Stränden und farbenfrohen Häusern entlang der Lagune.",
+      "p_11": "• Kleinere venezianische Inseln: Weniger bekannt und besucht, aber ebenso faszinierend. Halten Sie inne auf Burano, Murano, Torcello, Certosa, Sant’Erasmo, Poveglia, San Servolo – und entdecken Sie die Besonderheiten der venezianischen Lagune.",
+      "p_12": "• Ausflüge mit dem Ausflugsboot: Unternehmen Sie eine Fahrt mit dem Ausflugsboot, um die Geheimnisse der Lagune zu entdecken – inklusive Schilfwälder, Fischerhütten (Casoni) und unberührter Natur.",
+    
+      "title6": "Entdecke die Altstadt von Chioggia",
+      "p_13": "Chioggia mit seinen engen Gassen, Kanälen und bunten Häusern ist eine Stadt, die wie eingefroren in der Zeit wirkt. Ihre einzigartige Atmosphäre erinnert an ein altes Fischerdorf. Nicht verpassen:",
+      "p_14": "• Der Fischmarkt von Chioggia: Ein einzigartiges Sinneserlebnis, bei dem frisch gefangener Fisch auf lebhaften Ständen angeboten wird.",
+      "p_15": "• Piazza Vigo und der Uhrturm: Der zentrale Platz von Chioggia lädt zum Flanieren ein. Der Uhrturm bietet einen atemberaubenden Panoramablick über die Stadt und die Lagune. Hier befindet sich die älteste noch funktionierende Turmuhr der Welt.",
+      "p_16": "• Die Kirchen und historischen Paläste: Chioggia ist reich an historischen Gebäuden wie der Kathedrale Santa Maria Assunta und dem Palazzo Granaio, die mit ihrer Architektur die Geschichte der Stadt erzählen.",
+      "p_17": "• Der Wochenmarkt in Chioggia – jeden Donnerstag.",
+    
+      "title7": "Erlebe Sottomarina: Sonne, Meer und Sport",
+      "p_18": "Sottomarina ist der Badeort schlechthin von Chioggia – bekannt für seinen langen Sandstrand, ideal zum Entspannen oder für Wassersport. Hier ein paar Highlights:",
+      "p_19": "• Strand von Sottomarina: Mit über 10 km goldgelbem Sand ist dieser Strand ideal für Familien, Paare und Gruppen. Ob Sonnenbaden, Spaziergänge am Wasser oder Gruppenspiele – Sottomarina ist immer eine gute Wahl.",
+      "p_20": "• Sport: Wer das Meer und Abenteuer liebt, kann in Sottomarina viele Wassersportarten ausüben – wie Windsurfen, Kitesurfen, Paddleboarding oder Beachvolleyball. Lokale Schulen bieten Kurse und Ausrüstungsverleih an.",
+      "p_21": "• Spaziergänge zu Fuß oder mit dem Fahrrad: Chioggia und Sottomarina lassen sich hervorragend zu Fuß oder mit dem Rad erkunden. Entlang der Promenade, durch die Altstadt oder in die umliegende Natur. Für Naturliebhaber ist die Insel Pellestrina ein idealer Ort für Fahrradtouren.",
+    
+      "title8": "Veranstaltungen und lokale Feste",
+      "p_22": "Chioggia und Sottomarina sind auch bekannt für kulturelle Veranstaltungen und traditionelle Feste, die das ganze Jahr über die Stadt beleben:",
+      "p_23": "• Fischfest: Jedes Jahr wird in Chioggia eines der traditionellsten Feste gefeiert – mit frischem Fisch in unzähligen Varianten. Es gibt auch Live-Musik, Shows und Spaß für die ganze Familie.",
+      "p_24": "• Sommerveranstaltungen und Konzerte: Im Sommer finden in Chioggia zahlreiche Konzerte, Theateraufführungen und Musikfestivals statt. Genießen Sie laue Abende unter freiem Himmel mit Live-Musik auf Plätzen und in historischen Kulissen.",
+      "p_25": "• Palio della Marciliana: Besuchen Sie uns am dritten Sonntag im Juni, wenn Chioggia ins 14. Jahrhundert zurückkehrt und die Ereignisse zwischen Venezianern und Genuesen mit dem historischen Palio de La Marciliana nachstellt.",
+    
+      "title9": "Nachtleben in Chioggia und Sottomarina",
+      "p_26": "Das Nachtleben in Chioggia und Sottomarina ist lebendig und vielfältig. Ob gemütliches Abendessen, Aperitif oder Partynacht – hier ist für jeden etwas dabei:",
+      "p_27": "• Aperitifs und Lounge-Bars: Viele Bacari und Lokale bieten Aperitifs mit lokalen Spezialitäten – mit Blick aufs Meer oder auf die Kanäle von Chioggia. Ideal für entspannte und gesellige Momente.",
+      "p_28": "• Diskotheken und Pubs: Sottomarina ist bekannt für seine Nachtclubs direkt am Meer, in denen man bis spät in die Nacht tanzen kann."
+        
+    
+  }
+
+  
